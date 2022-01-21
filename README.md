@@ -1,2 +1,3 @@
 # Terraform-aws
-managing aws infra using Terraform
+### Managing aws infra using Terraform
+This repo contains my terraform aws projects.
